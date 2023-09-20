@@ -1,5 +1,3 @@
-%question1：
-
 %question1
 
 n = input('enter n between 2 to 10 as integer:  ');
